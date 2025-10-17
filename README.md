@@ -10,6 +10,7 @@ The Secrets Manager Agent returns secret values in the same format as the respon
 
 To download the source code, see [https://github\.com/aws/aws\-secretsmanager\-agent](https://github.com/aws/aws-secretsmanager-agent) on GitHub\.
 
+
 **Topics**
 - [AWS Secrets Manager Agent](#aws-secrets-manager-agent)
   - [Step 1: Build the Secrets Manager Agent binary](#step-1-build-the-secrets-manager-agent-binary)
